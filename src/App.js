@@ -25,13 +25,21 @@ p{
   background-color:blue;
 
 }
+p{
+  color: pink;
+}
 `
 
 export default function App() {
   return (
     <Header>
+
+      <h1>Oi pessoal!!!!!</h1>
+      <p>Saudações turma 02</p>  
+
       <h1>Fazendo trabalho em grupo</h1>
       <p>Vamos ver no que vai dar.</p>
+
     </Header>
   )
 }
