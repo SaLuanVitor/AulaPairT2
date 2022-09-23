@@ -12,8 +12,7 @@ align-items: center;
 border:dashed 3px red;
 
 h1{
-  color:white;
-
+  color:red;
   width: 3rem;
 }
 
@@ -35,7 +34,7 @@ export default function App() {
     <Header>
 
       <h1>Oi pessoal!!!!!</h1>
-      <p>Saudações turma 02</p>  
+      <p>Saudações turma 02</p>
 
       <h1>Fazendo trabalho em grupo</h1>
       <p>Vamos ver no que vai dar.</p>
