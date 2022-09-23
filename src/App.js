@@ -13,6 +13,7 @@ border:dashed 3px red;
 
 h1{
   color:white;
+
   width: 3rem;
 }
 
@@ -20,6 +21,9 @@ h1{
 p{
  color: pink;
  border: solid;
+
+  background-color:blue;
+
 }
 `
 
