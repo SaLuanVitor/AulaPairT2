@@ -13,6 +13,7 @@ border:dashed 3px red;
 
 h1{
   color:white;
+  background-color:blue;
 }
 `
 
